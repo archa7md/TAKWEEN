@@ -1,0 +1,6 @@
+{
+  "version":"3.9",
+  "status":["improved","no_improvement"],
+  "required_output":["before","after","score_delta","alternative","constraint_status"],
+  "trace":["weak_factors","weights","min_improvement"]
+}

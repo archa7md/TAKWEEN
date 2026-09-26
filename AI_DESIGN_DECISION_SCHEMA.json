@@ -1,0 +1,17 @@
+{
+  "engine": "TAKWEEN AI Design Decision Layer",
+  "version": "3.8",
+  "decision": ["retain", "revise", "review"],
+  "required_outputs": [
+    "score",
+    "confidence",
+    "summary",
+    "strengths",
+    "issues",
+    "recommended_actions",
+    "factor_trace",
+    "source_metrics",
+    "limitations"
+  ],
+  "principle": "Every recommendation must be traceable to v3.7 metrics or explicit geometry signals."
+}

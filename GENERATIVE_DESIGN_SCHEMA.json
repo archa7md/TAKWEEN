@@ -1,0 +1,1 @@
+{"version":"4.0","engine":"TAKWEEN Generative Design Engine","input":{"alternative":"object","count":"integer 1..12","refine":"boolean"},"output":{"results":"ranked generated alternatives with score/components/strategy","iteration":"optional v3.9 refinement impact"},"notes":["Deterministic parametric generation","Not code compliance","Architect review required"]}
